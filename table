@@ -1,0 +1,42 @@
+<html>
+<head>
+  <title>Przykadowa strona z tabelami</title>
+</head>
+   <body>
+  <table border=1 cellspacing=0 cellpadding=0>
+  <tr >
+  <td width=73 valign=top>
+  <br/>
+  </td>
+  <td width=168 valign=top>
+  <br/>Nagówek
+  </td>
+  <td width=84 valign=top>
+  <br/>
+  </td>
+  </tr>
+  <tr >
+  <td width=73 valign=top>
+  <br/>Pasek 1
+  </td>
+  <td width=168 valign=top>
+  <br/>Cwna
+  </td>
+  <td width=84 valign=top>
+  <br/>Pasek 2
+  </td>
+  </tr>
+  <tr >
+  <td width=73 valign=top>
+  <br/>
+  </td>
+  <td width=168 valign=top>
+  <br/>Stopka
+  </td>
+  <td width=84 valign=top>
+  <br/>
+  </td>
+  </tr>
+  </table>
+</body>
+</html>
